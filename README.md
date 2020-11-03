@@ -8,7 +8,7 @@ https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-
 
 
 
-<h2>Used In This Project<h/2>
+<h2>Used In This Project</h2>
 
    Keras
 
